@@ -53,3 +53,9 @@ Further resources are available through the Monash EMU
 In particular, we draw your attention to:
 - Full online [documentation](https://summer2.readthedocs.io/en/latest/) of the `summer` platform
 - [Textbook](https://github.com/monash-emu/summer-textbook) of infectious disease modelling using `summer`
+
+## Notes on the manual
+The PDF of the training manual is generated from the supplied notebook file using [Quarto](https://quarto.org)
+```
+quarto render .\WPRO_WHO_Capacity_Training_Manual.ipynb --to pdf --toc
+```
