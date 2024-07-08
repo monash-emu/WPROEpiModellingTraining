@@ -10,7 +10,7 @@ To run these over Google Colab, follow the links below and the instructions in t
 
 2. [Stratification](https://colab.research.google.com/github/monash-emu/WPROEpiModellingTraining/blob/main/notebooks/02-stratification.ipynb)
 
-3. [Calibration](hthttps://colab.research.google.com/github/monash-emu/WPROEpiModellingTraining/blob/main/notebooks/03-basic-calibration.ipynb)
+3. [Calibration](https://colab.research.google.com/github/monash-emu/WPROEpiModellingTraining/blob/main/notebooks/03-basic-calibration.ipynb)
 
 4. [Heterogeneous mixing](https://colab.research.google.com/github/monash-emu/WPROEpiModellingTraining/blob/main/notebooks/04-hetero-mix.ipynb)
 
